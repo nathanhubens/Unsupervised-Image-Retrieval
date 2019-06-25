@@ -13,4 +13,4 @@ The 5 retrieved images are :
 
 ![Optional Text](../master/Images/retrieved_images.png)
 
-A further explanation can be found *here*
+A further explanation can be found [here](https://towardsdatascience.com/build-a-simple-image-retrieval-system-with-an-autoencoder-673a262b7921)
